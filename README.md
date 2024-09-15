@@ -1,5 +1,4 @@
-Raylı Sistemlerde Güvenlik Ve vagonların doluluk adlı projemizin yüz tanıma kodları
-
-Yüz tanımada kişi eklemek için yeni kullanıcı.py tanıma işlemi için veri işleme yüz tanıma.py lerden 2 si de olabilir biri ekrana kişi tanıyınca mesaj kutusu çıkarıyo
-
-Yüz tanımada veri işleme yüz tanıma yazanları ilk çalıştırıp kişi bulunca uyarı veren yüklenip diğerini uyarı sistemi kapalıdır
+1- Öncelikle kendinizi tanıtmak için yeni_kullanici.py çalıştırılır. İsim girilir ve sistem fotoğraf çekilir. 
+2- veri_islemeYuzTanima.py çalıştırılır veri işlenir sonra ekran 3 pencere açılmış bir görüntü bir ikili beyaz siyah çevrilmiş görüntü sonuncu ise yüz tanıma sistemi ekranıdır.
+3- Kişi tanıdığında ekranda mesaj kutusunu çıkarır. 
+4- Çıkmak için esc tuşuna basıldı.
